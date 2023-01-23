@@ -8,8 +8,8 @@ I am very fascinated by both blockchain and AI technologies so i try my best to 
 
 ## Projects
 
+### [USDC/WETH anallysis](https://mango-click-bc9.notion.site/Analyzing-USDC-WETH-Pools-ef15c4ba2b2b4d67a171d237595347fd)
 ### [Analysing x2y2's performance](https://twitter.com/yesyesy44977029/status/1598221367866200064)
-### [USDC/WETH anallysis](https://docs.google.com/document/d/1ykbSV5iqxNb3LD3GGLkQFgFc6_TSlXAuoN0hT4z0V5w/edit?usp=sharing)
 ### [Comparing lending rate of Aave v3 on different chains using Messari's subgraphs](https://realguy33-aave-11-dashboard-cb05yj.streamlitapp.com/)
 ### [Comparison of UNI's price with ETH's price](https://app.flipsidecrypto.com/dashboard/comparison-of-un-is-price-with-et-hs-price-Tqp12A)
 ### [Uniswap Daily Swap Volume in USD on different L2s](https://realguy33-uni-chal-27-dashboard-lhl9gu.streamlitapp.com/)
