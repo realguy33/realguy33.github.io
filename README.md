@@ -13,7 +13,9 @@ I am very fascinated by both blockchain and AI technologies so i try my best to 
 ### [Comparing lending rate of Aave v3 on different chains using Messari's subgraphs](https://realguy33-aave-11-dashboard-cb05yj.streamlitapp.com/)
 ### [Comparison of UNI's price with ETH's price](https://app.flipsidecrypto.com/dashboard/comparison-of-un-is-price-with-et-hs-price-Tqp12A)
 ### [Uniswap Daily Swap Volume in USD on different L2s](https://realguy33-uni-chal-27-dashboard-lhl9gu.streamlitapp.com/)
-
+### [Surge in Optimism](https://app.flipsidecrypto.com/dashboard/a-surge-of-optimism-w70pr7)
+### [pudgy penguins basic analysis](https://www.covalenthq.com/platform/#/increment/pages/none-498/pudgy-penguins/)
+### [azukis basic analysis](https://www.covalenthq.com/platform/#/increment/pages/none-498/azukis/)
 
 ## Social Media
 [Twitter](https://twitter.com/yesyesy44977029)
